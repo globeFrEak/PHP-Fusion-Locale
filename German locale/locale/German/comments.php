@@ -11,5 +11,6 @@ $locale['c106'] = "Kommentare verwalten";
 $locale['c107'] = " Smileys in diesen Kommentar deaktivieren.";
 $locale['c108'] = "Bearbeiten";
 $locale['c109'] = "L&ouml;schen";
+$locale['c110'] = "Kommentar wirklich L&ouml;schen?";
 
 ?>
