@@ -35,8 +35,8 @@ $locale['SB_days']          = " Tage sind.";
 $locale['SB_delete_shouts'] = "Nachrichten l&ouml;schen";
 
 // Shoutbox Fehlermeldungen
-$locale['SB_warning_shouts'] = "Willst du wirklich die Nachrichten löschen?";
-$locale['SB_warning_shout']  = "Willst du wirklich diese Nachricht löschen?";
+$locale['SB_warning_shouts'] = "Willst du wirklich die Nachrichten l&ouml;schen?";
+$locale['SB_warning_shout']  = "Willst du wirklich diese Nachricht l&ouml;schen?";
 
 // Einstellungen
 $locale['SB_settings']       = "Shoutbox Einstellungen";
