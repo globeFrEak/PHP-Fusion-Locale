@@ -20,6 +20,23 @@ $locale['416'] = "Caut&#259;";
 $locale['417'] = "Alege ac&#355;iunea";
 $locale['418'] = "Anuleaz&#259;";
 $locale['419'] = "Reactiveaz&#259;";
+$locale['425'] = "<h2>Atentie!</h2><br />
+Esti pe cale sa stergi utilizatorul <strong>%s</strong> !<br />
+Urmatorul continut <u>postat de catre acest utilizator</u> pe acest site va fi sters daca veti continua:<br />
+- Articole<br />
+- Stiri<br />
+- Discutiile din forum. Deasemenea postarile facute de alti utilizatori in aceste discutii vor fi sterse, impreuna cu voturile din sondaje si atasamentele din aceste discutii
+- Postarile in forum<br />
+- Atasamentele din forum<br />
+- Comentariile<br />
+- Mesajele private primite sau trimise de acest utilizator<br />
+- Voturile din sondaje<br />
+- Evaularile facute<br />
+Doar in cazul in care acesta nu este un \"spammer\" iti recomandam sa Interzici(Banezi), Suspedezi, Anulezi sau sa Anonimizezi acest user.<br />
+<br />
+Esti sigur ca vrei sa stergi acest user?<br />";
+$locale['426'] = "Da";
+$locale['427'] = "Nu";
 // Ban/Unban/Delete Member
 $locale['420'] = "Suspendare impus&#259;";
 $locale['421'] = "Suspendare eliminat&#259;";
